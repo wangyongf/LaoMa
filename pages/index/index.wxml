@@ -1,0 +1,4 @@
+<view class="container" style="height: {{view.height}}px;">
+<!--<canvas style="width: 9999px; height: 9999px;" canvas-id="firstCanvas" />    -->
+  <image bindtap="scanCode" src="../../images/scan.png" style="width: 128px; height: 128px;"/>
+</view>
